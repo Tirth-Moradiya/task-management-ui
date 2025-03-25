@@ -20,5 +20,5 @@ Users can **add, update, and delete tasks**, with different statuses.
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/task-management-ui.git
+git clone https://github.com/Tirth-Moradiya/task-management-ui.git
 cd task-management-ui
